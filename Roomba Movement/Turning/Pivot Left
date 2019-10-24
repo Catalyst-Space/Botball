@@ -1,0 +1,6 @@
+    set_create_normalized_angle(0);
+    create_spin_CCW (150);
+    while (get_create_normalized_angle() < x )
+    {
+        get_create_normalized_angle();
+    }
